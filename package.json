@@ -1,0 +1,18 @@
+{
+  "name": "nikita_resume",
+  "version": "1.0.0",
+  "description": "Nikita Yende's interactive, futuristic portfolio",
+  "license": "ISC",
+  "author": "Nikita Yende",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "gsap": "^3.15.0",
+    "three": "^0.186.1"
+  }
+}
